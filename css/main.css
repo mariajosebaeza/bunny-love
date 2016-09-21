@@ -1,0 +1,146 @@
+/*header*/
+
+.head {
+	background-color: #037F99;
+}
+.bunny {
+	font-family: 'Baloo Paaji', cursive;
+	margin-left: 55px;
+	color: white;
+	font-size: 25px;
+}
+.menu1 {
+	text-decoration: none;
+	display: inline-block;
+}
+.deco-none {
+	text-decoration: none;
+	color: #ECF7FB;
+	font-family: 'Prompt', sans-serif;
+}
+nav {
+	text-align: center;
+}
+.pink { 
+ 	color: #f27e6c;
+ 	font-family: 'Baloo Paaji', cursive;
+}
+
+/*section banner conejo */
+.fondoceleste {
+	background-color: #ECF7FB;
+}
+.container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+}
+.bannerconejo {
+	background-image: url(../img/img-1.jpg);
+	background-size: cover;
+	background-position: top;
+	background-repeat: no-repeat;
+	height: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.fondo-azul{
+	background-color: rgba(3,127,153,0.5);
+    height: 250px;
+    width: 650px;
+}
+.soft {
+	font-family: 'Baloo Paaji', cursive;
+	color: #f27e6c;
+	font-size: 70px;
+	text-align: center;
+}
+.lll {
+	font-family: 'Prompt', sans-serif;
+	color: white;
+	text-align: center;
+    font-style: italic;
+    font-weight: 320;
+    text-align: center;
+}
+
+/* section2 imagenes chicas */
+
+
+.textpink {
+	font-family: 'Prompt', sans-serif;
+	color: #f27e6c;
+	font-size: 14px;
+	text-align: center;
+}
+.parrafochico {
+	font-family: 'Prompt', sans-serif;
+	text-align: center;
+	justify-content: center;
+	color: #fff;
+	font-size: 11px;
+}
+.fondoazul {
+	background-color: #037F99;
+	border-top: white 20px solid;
+	border-right:white 5px solid;
+	border-left:white 7px solid; 
+	border-bottom: white 20px solid;
+	height: 365px;
+}
+.container2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	margin: 0 auto;
+}
+
+/* conejos con video */ 
+
+.container3 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	background-color: #037F99;
+}
+.conejo-5 {
+	width: 100%;
+}
+.busqueda {
+    background-color: #ECF7FB;
+    height: 60px;
+    width: 80%;
+    border-radius: 5%;
+    margin: 10% 13% 10% 12%;
+    padding: 2%;
+    display: flex;
+    align-items: center;
+}
+.conejo-6{
+	width: 100%;
+}
+
+#search{
+    height: 35px;
+    width: 85%;
+}
+
+@import url(http://fonts.googleapis.com/css?family=Montserrat+Alternates);
+}
+.rsocial{
+    background-color: #fff;
+    text-align: center;
+    margin: 3% 5%; 
+    display: inline-block;
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+}
+.facebok{
+      margin-left: 40px;
+}
+i{
+    color: #037F99;
+    padding-top: 12px;
+}
